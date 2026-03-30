@@ -1,4 +1,4 @@
-# aCinsiyet Sınıflandırma Projesi 🎙️
+# Cinsiyet Sınıflandırma Projesi 🎙️
 
 Ses sinyallerinden **Erkek / Kadın / Çocuk** cinsiyetini otomatik olarak tahmin eden kural tabanlı bir sınıflandırıcı.
 
