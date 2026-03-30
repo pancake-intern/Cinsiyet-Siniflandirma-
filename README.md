@@ -1,1 +1,0 @@
-# Cinsiyet-Siniflandirma-
